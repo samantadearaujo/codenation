@@ -1,0 +1,1 @@
+{'numero_casas': 3, 'token': 'badb1909babde99888c15847aec2a54f17f61880', 'cifrado': 'pdf xvhuv vzhdu eb wkhlu pdf, sf xvhuv vzhdu dw wkhlu sf. xqnqrzq', 'decifrado': 'mac users swear by their mac, pc users swear at their pc. unknown', 'resumo_criptografico': 'cb9d5bb304bc7015be99d32af6dd7f40039e9271'}

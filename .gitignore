@@ -1,0 +1,9 @@
+arquivos_aula/*
+codenation/*
+python-5/*
+*/venv/*
+*/requirements.txt
+*/output.xml
+*/stdout.txt
+*/.pytest_cache/*
+*/__pycache__/*
